@@ -131,6 +131,7 @@ namespace CPE200Lab1
             }
         }
 
+
         private void btnPercentOperator_Click(object sender, EventArgs e)
         {
             P = double.Parse(lblDisplay.Text);
